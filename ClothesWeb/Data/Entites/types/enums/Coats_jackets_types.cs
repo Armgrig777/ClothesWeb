@@ -1,0 +1,37 @@
+﻿namespace ClothesWeb.Data.Entites.types.enums
+{
+    public enum Coats_jackets_types
+    {
+        TrenchCoat,
+        PeaCoat,
+        Parka,
+        BomberJacket,
+        DenimJacket,
+        LeatherJacket,
+        PufferCoat,
+        Overcoat,
+        Raincoat,
+        Windbreaker,
+        WoolCoat,
+        FleeceJacket,
+        QuiltedJacket,
+        Blazer,
+        SkiJacket,
+        MilitaryJacket,
+        DownJacket,
+        FieldJacket,
+        MotorcycleJacket,
+        HarringtonJacket,
+        TuxedoJacket,
+        ChoreCoat,
+        TailoredCoat,
+        KimonoCoat,
+        FauxFurCoat,
+        TunicCoat,
+        Anorak,
+        Cape,
+        DuffleCoat,
+        Capelet,
+        CocoonCoat,
+    }
+}
